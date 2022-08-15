@@ -1,2 +1,2 @@
 # javascript5
-ECMAScript
+ECMAScript (dicoding)
